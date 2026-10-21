@@ -1,0 +1,19 @@
+{
+  "run_id": "80211ax_sta20_seed1_run2",
+  "ns3_version": "3.49",
+  "standard": "80211ax",
+  "n_stations": 20,
+  "channel_width_mhz": 20,
+  "mcs": 3,
+  "offered_rate": "2Mbps",
+  "payload_size_bytes": 1000,
+  "warmup_time_s": 1,
+  "active_time_s": 1,
+  "seed": 1,
+  "run": 2,
+  "aggregate_goodput_mbps": 17.8551,
+  "aggregate_pdr_percent": 45.5444,
+  "overall_mean_delay_ms": 192.852,
+  "overall_p95_delay_ms": 448.229,
+  "jain_fairness_index": 0.7136
+}

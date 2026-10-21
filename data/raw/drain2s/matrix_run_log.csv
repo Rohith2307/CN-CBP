@@ -1,0 +1,23 @@
+timestamp,run_id,standard,n_stations,seed,run,offered_rate,status,return_code,duration_sec,goodput_mbps,pdr_percent,mean_delay_ms,p95_delay_ms,jain_fairness,error_message
+2026-10-20T22:43:50.638651,80211ax_sta5_seed1_run1_drain2s,80211ax,5,1,1,2Mbps,LAUNCH_FAILED,-1,0.0,0.0,0.0,0.0,0.0,0.0,[Errno 1] Operation not permitted: './ns3'
+2026-10-20T22:43:50.641565,80211ax_sta5_seed1_run2_drain2s,80211ax,5,1,2,2Mbps,LAUNCH_FAILED,-1,0.0,0.0,0.0,0.0,0.0,0.0,[Errno 1] Operation not permitted: './ns3'
+2026-10-20T22:43:50.644124,80211ax_sta5_seed1_run3_drain2s,80211ax,5,1,3,2Mbps,LAUNCH_FAILED,-1,0.0,0.0,0.0,0.0,0.0,0.0,[Errno 1] Operation not permitted: './ns3'
+2026-10-20T22:43:50.646935,80211ax_sta10_seed1_run1_drain2s,80211ax,10,1,1,2Mbps,LAUNCH_FAILED,-1,0.0,0.0,0.0,0.0,0.0,0.0,[Errno 1] Operation not permitted: './ns3'
+2026-10-20T22:43:50.649935,80211ax_sta10_seed1_run2_drain2s,80211ax,10,1,2,2Mbps,LAUNCH_FAILED,-1,0.0,0.0,0.0,0.0,0.0,0.0,[Errno 1] Operation not permitted: './ns3'
+2026-10-20T22:43:50.653028,80211ax_sta10_seed1_run3_drain2s,80211ax,10,1,3,2Mbps,LAUNCH_FAILED,-1,0.0,0.0,0.0,0.0,0.0,0.0,[Errno 1] Operation not permitted: './ns3'
+2026-10-20T22:43:50.663919,80211ax_sta20_seed1_run2_drain2s,80211ax,20,1,2,2Mbps,LAUNCH_FAILED,-1,0.0,0.0,0.0,0.0,0.0,0.0,[Errno 1] Operation not permitted: './ns3'
+2026-10-20T22:43:50.666703,80211ax_sta20_seed1_run3_drain2s,80211ax,20,1,3,2Mbps,LAUNCH_FAILED,-1,0.0,0.0,0.0,0.0,0.0,0.0,[Errno 1] Operation not permitted: './ns3'
+2026-10-20T22:43:50.669625,80211ax_sta30_seed1_run1_drain2s,80211ax,30,1,1,2Mbps,LAUNCH_FAILED,-1,0.0,0.0,0.0,0.0,0.0,0.0,[Errno 1] Operation not permitted: './ns3'
+2026-10-20T22:43:50.672167,80211ax_sta30_seed1_run2_drain2s,80211ax,30,1,2,2Mbps,LAUNCH_FAILED,-1,0.0,0.0,0.0,0.0,0.0,0.0,[Errno 1] Operation not permitted: './ns3'
+2026-10-20T22:43:50.674588,80211ax_sta30_seed1_run3_drain2s,80211ax,30,1,3,2Mbps,LAUNCH_FAILED,-1,0.0,0.0,0.0,0.0,0.0,0.0,[Errno 1] Operation not permitted: './ns3'
+2026-10-20T22:48:42.148134,80211ax_sta5_seed1_run1_drain2s,80211ax,5,1,1,2Mbps,SUCCESS,0,0.75,9.801,100.0,1.7389,3.0877,1.0,
+2026-10-20T22:48:42.765409,80211ax_sta5_seed1_run2_drain2s,80211ax,5,1,2,2Mbps,SUCCESS,0,0.61,9.801,100.0,1.7058,2.9076,1.0,
+2026-10-20T22:48:43.386333,80211ax_sta5_seed1_run3_drain2s,80211ax,5,1,3,2Mbps,SUCCESS,0,0.62,9.801,100.0,1.7232,3.03,1.0,
+2026-10-20T22:48:44.214111,80211ax_sta10_seed1_run1_drain2s,80211ax,10,1,1,2Mbps,SUCCESS,0,0.82,19.6019,100.0,30.4243,152.3493,1.0,
+2026-10-20T22:48:44.936325,80211ax_sta10_seed1_run2_drain2s,80211ax,10,1,2,2Mbps,SUCCESS,0,0.72,19.6019,100.0,31.0144,114.2504,1.0,
+2026-10-20T22:48:45.693767,80211ax_sta10_seed1_run3_drain2s,80211ax,10,1,3,2Mbps,SUCCESS,0,0.75,19.6019,100.0,46.6992,220.2799,1.0,
+2026-10-20T22:48:46.590853,80211ax_sta20_seed1_run2_drain2s,80211ax,20,1,2,2Mbps,SUCCESS,0,0.89,25.0873,63.99,247.0794,474.4653,0.8271,
+2026-10-20T22:48:47.515289,80211ax_sta20_seed1_run3_drain2s,80211ax,20,1,3,2Mbps,SUCCESS,0,0.92,24.9134,63.55,221.9323,473.0596,0.8069,
+2026-10-20T22:48:48.689775,80211ax_sta30_seed1_run1_drain2s,80211ax,30,1,1,2Mbps,SUCCESS,0,1.17,24.202,41.16,289.7591,486.4333,0.6895,
+2026-10-20T22:48:49.895993,80211ax_sta30_seed1_run2_drain2s,80211ax,30,1,2,2Mbps,SUCCESS,0,1.2,23.0402,39.18,283.6268,486.5553,0.7034,
+2026-10-20T22:48:51.127758,80211ax_sta30_seed1_run3_drain2s,80211ax,30,1,3,2Mbps,SUCCESS,0,1.23,23.4037,39.8,269.4104,489.7354,0.6595,

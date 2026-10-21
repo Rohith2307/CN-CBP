@@ -1,0 +1,16 @@
+{
+  "timestamp": "2026-10-21T13:43:51.562654",
+  "standard": "80211ax",
+  "stations_list": [
+    5,
+    10,
+    20,
+    30
+  ],
+  "runs_per_config": 3,
+  "seed": 1,
+  "total_runs": 12,
+  "completed_runs": 12,
+  "successful_runs": 12,
+  "failed_runs": 0
+}
