@@ -1,0 +1,15 @@
+{
+  "run_id": "demo_dataset_1_sta10_seed101_run1",
+  "ns3_version": "demonstration-fixture",
+  "standard": "80211ax",
+  "n_stations": 10,
+  "channel_width_mhz": 20,
+  "mcs": 3,
+  "offered_rate": "2Mbps",
+  "payload_size_bytes": 1000,
+  "warmup_time_s": 1.0,
+  "active_time_s": 1.0,
+  "drain_time_s": 2.0,
+  "seed": 101,
+  "run": 1
+}

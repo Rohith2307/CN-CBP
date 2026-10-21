@@ -1,0 +1,2 @@
+run_id,seed,run,standard,n_stations,channel_width_mhz,mcs,offered_rate_kbps,payload_size,warmup_s,active_window_s,total_tx_packets,total_rx_packets,total_tx_bytes,total_rx_bytes,aggregate_goodput_mbps,aggregate_pdr_percent,mean_delay_ms,p95_delay_ms,jain_fairness_index
+demo_dataset_2_sta20_seed201_run1,201,1,80211ax,20,20,3,2000,1000,1.0,1.0,4960,2560,4960000,2560000,20.48,51.61,330.0,535.0,0.9981

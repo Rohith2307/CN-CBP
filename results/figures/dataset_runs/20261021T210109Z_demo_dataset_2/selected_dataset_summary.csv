@@ -1,0 +1,13 @@
+dataset_id,run_id,n_stations,seed,rng_run,goodput_mbps,pdr_percent,mean_delay_ms,p95_delay_ms,jain_fairness
+demo_dataset_2,demo_dataset_2_sta5_seed201_run1,5,201,1,9.464,95.4,4.6,8.5,1.0
+demo_dataset_2,demo_dataset_2_sta5_seed201_run2,5,201,2,9.464,95.4,4.75,8.7,1.0
+demo_dataset_2,demo_dataset_2_sta5_seed201_run3,5,201,3,9.464,95.4,4.9,8.9,1.0
+demo_dataset_2,demo_dataset_2_sta10_seed201_run1,10,201,1,17.32,87.3,62.0,195.0,0.9998
+demo_dataset_2,demo_dataset_2_sta10_seed201_run2,10,201,2,17.32,87.3,63.5,198.0,0.9998
+demo_dataset_2,demo_dataset_2_sta10_seed201_run3,10,201,3,17.32,87.3,65.0,201.0,0.9998
+demo_dataset_2,demo_dataset_2_sta20_seed201_run1,20,201,1,20.48,51.61,330.0,535.0,0.9981
+demo_dataset_2,demo_dataset_2_sta20_seed201_run2,20,201,2,20.8,52.42,335.0,541.0,0.9981
+demo_dataset_2,demo_dataset_2_sta20_seed201_run3,20,201,3,21.12,53.23,340.0,547.0,0.9982
+demo_dataset_2,demo_dataset_2_sta30_seed201_run1,30,201,1,18.192,30.56,410.0,605.0,0.9973
+demo_dataset_2,demo_dataset_2_sta30_seed201_run2,30,201,2,18.672,31.37,416.0,610.0,0.9974
+demo_dataset_2,demo_dataset_2_sta30_seed201_run3,30,201,3,19.152,32.18,422.0,615.0,0.9976
